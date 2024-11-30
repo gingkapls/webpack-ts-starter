@@ -6,7 +6,7 @@ A minimal template to bootstrap Webpack applications and save development time
 
 ### Development
 - Run `npm run dev` to run a development server on [localhost:8080](http://localhost:8080).
-- Run `npm test` to run tests, by default `jest` will look for test files in `src` directory.
+- Run `npm test` to run tests, by default `jest` will look for spec files in `test` directory.
 
 ### Building
 - Run `npm run build` to build the application.
